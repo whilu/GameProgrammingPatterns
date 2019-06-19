@@ -20,7 +20,7 @@ public class GameController : MonoBehaviour
         _downCommand = new DownCommand();
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.LeftArrow))
