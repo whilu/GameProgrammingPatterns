@@ -2,8 +2,13 @@
 
 public class UpCommand : Command
 {
-    public override void Execute(Actor actor)
+
+    public UpCommand(Actor actor)
     {
-        actor.Up();
+        _actor = actor;
+    }
+    public override void Execute()
+    {
+        _actor.Up();
     }
 }

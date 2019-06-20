@@ -2,8 +2,12 @@
 
 public class RightCommand : Command
 {
-    public override void Execute(Actor actor)
+    public RightCommand(Actor actor)
     {
-        actor.Right();
+        _actor = actor;
+    }
+    public override void Execute()
+    {
+        _actor.Right();
     }
 }

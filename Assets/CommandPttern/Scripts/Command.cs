@@ -1,4 +1,6 @@
 ﻿public abstract class Command
 {
-    public abstract void Execute(Actor actor);
+    protected Actor _actor;
+    
+    public abstract void Execute();
 }

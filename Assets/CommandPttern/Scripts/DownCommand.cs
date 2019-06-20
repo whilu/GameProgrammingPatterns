@@ -2,8 +2,12 @@
 
 public class DownCommand : Command
 {
-    public override void Execute(Actor actor)
+    public DownCommand(Actor actor)
     {
-        actor.Down();
+        _actor = actor;
+    }
+    public override void Execute()
+    {
+        _actor.Down();
     }
 }

@@ -2,8 +2,12 @@
 
 public class LeftCommand : Command
 {
-    public override void Execute(Actor actor)
+    public LeftCommand(Actor actor)
     {
-        actor.Left();
+        _actor = actor;
+    }
+    public override void Execute()
+    {
+        _actor.Left();
     }
 }
