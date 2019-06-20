@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cce882f2-6b7f-42de-99b7-fc238a8aadec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/SimpleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/SimpleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cce882f2-6b7f-42de-99b7-fc238a8aadec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <marker date="1560927155010" expanded="true" signature="29:69" ph="{...}" />
               </folding>
@@ -126,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="187" />
     <option name="y" value="23" />
     <option name="width" value="1093" />
@@ -212,12 +205,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560908784126</updated>
       <workItem from="1560908791869" duration="997000" />
-      <workItem from="1560927843601" duration="1571000" />
+      <workItem from="1560927843601" duration="1684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2568000" />
+    <option name="totallyTimeSpent" value="2681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,7 +222,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="23" width="1093" height="777" extended-state="0" />
+    <frame x="187" y="23" width="1093" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21217887" />
@@ -347,7 +340,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <marker date="1560927155010" expanded="true" signature="29:69" ph="{...}" />
           </folding>
