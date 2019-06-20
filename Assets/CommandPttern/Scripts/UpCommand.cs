@@ -2,8 +2,8 @@
 
 public class UpCommand : Command
 {
-    public override void Execute()
+    public override void Execute(Actor actor)
     {
-        Debug.Log("Up!");
+        actor.Up();
     }
 }

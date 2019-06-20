@@ -2,8 +2,8 @@
 
 public class RightCommand : Command
 {
-    public override void Execute()
+    public override void Execute(Actor actor)
     {
-        Debug.Log("Right!");
+        actor.Right();
     }
 }

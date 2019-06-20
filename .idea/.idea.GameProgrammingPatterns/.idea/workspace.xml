@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cce882f2-6b7f-42de-99b7-fc238a8aadec" name="Default Changelist" comment="" />
+    <list default="true" id="cce882f2-6b7f-42de-99b7-fc238a8aadec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/LeftCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/LeftCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/RightCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/RightCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommandPttern/SimpleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CommandPttern/SimpleScene.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,25 +20,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-              <folding>
-                <marker date="1560910006582" expanded="true" signature="29:69" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
-                <marker date="1560910049026" expanded="true" signature="52:129" ph="{...}" />
-                <marker date="1560910049026" expanded="true" signature="89:127" ph="{...}" />
+                <marker date="1560994633202" expanded="true" signature="52:134" ph="{...}" />
+                <marker date="1560994633202" expanded="true" signature="100:132" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,11 +35,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
-                <marker date="1560910049043" expanded="true" signature="54:133" ph="{...}" />
-                <marker date="1560910049043" expanded="true" signature="91:131" ph="{...}" />
+                <marker date="1560994432178" expanded="true" signature="54:138" ph="{...}" />
+                <marker date="1560994432178" expanded="true" signature="102:136" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,11 +48,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/LeftCommand.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
-                <marker date="1560910049038" expanded="true" signature="54:133" ph="{...}" />
-                <marker date="1560910049038" expanded="true" signature="91:131" ph="{...}" />
+                <marker date="1560994633208" expanded="true" signature="54:138" ph="{...}" />
+                <marker date="1560994633208" expanded="true" signature="102:136" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,11 +61,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/RightCommand.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="90">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
-                <marker date="1560910049048" expanded="true" signature="55:135" ph="{...}" />
-                <marker date="1560910049048" expanded="true" signature="92:133" ph="{...}" />
+                <marker date="1560994633213" expanded="true" signature="55:140" ph="{...}" />
+                <marker date="1560994633213" expanded="true" signature="103:138" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -77,17 +74,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="360">
+              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding>
-                <marker date="1560909999426" expanded="false" signature="6:78" ph="..." />
-                <marker date="1560909999426" expanded="true" signature="123:983" ph="{...}" />
-                <marker date="1560909999426" expanded="true" signature="300:478" ph="{...}" />
-                <marker date="1560909999426" expanded="true" signature="536:981" ph="{...}" />
-                <marker date="1560909999426" expanded="true" signature="591:647" ph="{...}" />
-                <marker date="1560909999426" expanded="true" signature="702:759" ph="{...}" />
-                <marker date="1560909999426" expanded="true" signature="811:865" ph="{...}" />
-                <marker date="1560909999426" expanded="true" signature="919:975" ph="{...}" />
+                <marker date="1560996174585" expanded="false" signature="6:78" ph="..." />
+                <marker date="1560996174585" expanded="true" signature="166:1308" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="381:559" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="583:1207" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="638:739" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="794:897" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="949:1046" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="1100:1201" ph="{...}" />
+                <marker date="1560996174585" expanded="true" signature="1262:1306" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Actor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
+              <folding>
+                <marker date="1560994368011" expanded="false" signature="6:78" ph="..." />
+                <marker date="1560994368011" expanded="true" signature="114:371" ph="{...}" />
+                <marker date="1560994368011" expanded="true" signature="139:179" ph="{...}" />
+                <marker date="1560994368011" expanded="true" signature="204:245" ph="{...}" />
+                <marker date="1560994368011" expanded="true" signature="267:305" ph="{...}" />
+                <marker date="1560994368011" expanded="true" signature="329:369" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -105,24 +120,26 @@
     <setting file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/RightCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Actor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs" />
-        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs" />
-        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/Actor.cs" />
         <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs" />
         <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/LeftCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/RightCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="187" />
-    <option name="y" value="23" />
-    <option name="width" value="1093" />
-    <option name="height" value="777" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-720" />
+    <option name="y" value="-1417" />
+    <option name="width" value="1145" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -183,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560908784126</updated>
-      <workItem from="1560908791869" duration="1115000" />
+      <workItem from="1560908791869" duration="3234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1115000" />
+    <option name="totallyTimeSpent" value="3234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +217,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="23" width="1093" height="777" extended-state="1" />
+    <frame x="-720" y="-1417" width="1145" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -247,73 +264,89 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Actor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <marker date="1560994368011" expanded="false" signature="6:78" ph="..." />
+            <marker date="1560994368011" expanded="true" signature="114:371" ph="{...}" />
+            <marker date="1560994368011" expanded="true" signature="139:179" ph="{...}" />
+            <marker date="1560994368011" expanded="true" signature="204:245" ph="{...}" />
+            <marker date="1560994368011" expanded="true" signature="267:305" ph="{...}" />
+            <marker date="1560994368011" expanded="true" signature="329:369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/Command.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="44" />
           <folding>
-            <marker date="1560910006582" expanded="true" signature="29:69" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <marker date="1560910049026" expanded="true" signature="52:129" ph="{...}" />
-            <marker date="1560910049026" expanded="true" signature="89:127" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <marker date="1560910049043" expanded="true" signature="54:133" ph="{...}" />
-            <marker date="1560910049043" expanded="true" signature="91:131" ph="{...}" />
+            <marker date="1560994400066" expanded="true" signature="29:80" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/LeftCommand.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
-            <marker date="1560910049038" expanded="true" signature="54:133" ph="{...}" />
-            <marker date="1560910049038" expanded="true" signature="91:131" ph="{...}" />
+            <marker date="1560994633208" expanded="true" signature="54:138" ph="{...}" />
+            <marker date="1560994633208" expanded="true" signature="102:136" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/RightCommand.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
-            <marker date="1560910049048" expanded="true" signature="55:135" ph="{...}" />
-            <marker date="1560910049048" expanded="true" signature="92:133" ph="{...}" />
+            <marker date="1560994633213" expanded="true" signature="55:140" ph="{...}" />
+            <marker date="1560994633213" expanded="true" signature="103:138" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/UpCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1560994633202" expanded="true" signature="52:134" ph="{...}" />
+            <marker date="1560994633202" expanded="true" signature="100:132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/DownCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1560994432178" expanded="true" signature="54:138" ph="{...}" />
+            <marker date="1560994432178" expanded="true" signature="102:136" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CommandPttern/Scripts/GameController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="360">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           <folding>
-            <marker date="1560909999426" expanded="false" signature="6:78" ph="..." />
-            <marker date="1560909999426" expanded="true" signature="123:983" ph="{...}" />
-            <marker date="1560909999426" expanded="true" signature="300:478" ph="{...}" />
-            <marker date="1560909999426" expanded="true" signature="536:981" ph="{...}" />
-            <marker date="1560909999426" expanded="true" signature="591:647" ph="{...}" />
-            <marker date="1560909999426" expanded="true" signature="702:759" ph="{...}" />
-            <marker date="1560909999426" expanded="true" signature="811:865" ph="{...}" />
-            <marker date="1560909999426" expanded="true" signature="919:975" ph="{...}" />
+            <marker date="1560996174585" expanded="false" signature="6:78" ph="..." />
+            <marker date="1560996174585" expanded="true" signature="166:1308" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="381:559" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="583:1207" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="638:739" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="794:897" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="949:1046" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="1100:1201" ph="{...}" />
+            <marker date="1560996174585" expanded="true" signature="1262:1306" ph="{...}" />
           </folding>
         </state>
       </provider>
