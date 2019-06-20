@@ -1,16 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements;
 
 public class GameController : MonoBehaviour
 {
-    private LeftCommand _leftCommand;
+    private Command _leftCommand;
 
-    private RightCommand _rightCommand;
+    private Command _rightCommand;
 
-    private UpCommand _upCommand;
+    private Command _upCommand;
 
-    private DownCommand _downCommand;
+    private Command _downCommand;
+
+    public Actor _Actor1;
+    public Actor _Actor2;
     
     void Awake()
     {
@@ -25,19 +29,28 @@ public class GameController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
-            _leftCommand.Execute();
+//            _Actor1.Left();
+            ExecuteCommand(_leftCommand, _Actor1);
         }
         else if (Input.GetKeyDown(KeyCode.RightArrow))
         {
-            _rightCommand.Execute();
+//            _Actor1.Right();
+            ExecuteCommand(_rightCommand, _Actor1);
         }
         else if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            _upCommand.Execute();
+//            _Actor1.Up();
+            ExecuteCommand(_upCommand, _Actor1);
         }
         else if (Input.GetKeyDown(KeyCode.DownArrow))
         {
-            _downCommand.Execute();
+//            _Actor1.Down();
+            ExecuteCommand(_downCommand, _Actor1);
         }
+    }
+
+    void ExecuteCommand(Command command, Actor actor)
+    {
+        command.Execute(actor);
     }
 }

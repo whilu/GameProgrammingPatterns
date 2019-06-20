@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="CommandPttern" t="Include">
           <e p="Scripts" t="Include">
+            <e p="Actor.cs" t="Include" />
             <e p="Command.cs" t="Include" />
             <e p="DownCommand.cs" t="Include" />
             <e p="GameController.cs" t="Include" />
@@ -24,6 +25,6 @@
       </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_GameProgrammingPatterns.-1926202159.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_GameProgrammingPatterns.98772032.00" t="ExcludeRecursive" />
   </component>
 </project>

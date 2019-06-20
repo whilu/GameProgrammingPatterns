@@ -2,8 +2,8 @@
 
 public class DownCommand : Command
 {
-    public override void Execute()
+    public override void Execute(Actor actor)
     {
-        Debug.Log("Down!");
+        actor.Down();
     }
 }

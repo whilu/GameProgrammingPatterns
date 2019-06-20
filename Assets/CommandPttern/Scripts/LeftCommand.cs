@@ -2,8 +2,8 @@
 
 public class LeftCommand : Command
 {
-    public override void Execute()
+    public override void Execute(Actor actor)
     {
-        Debug.Log("Left!");
+        actor.Left();
     }
 }
