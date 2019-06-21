@@ -4,6 +4,6 @@ namespace StatePattern
 {
     public interface State
     {
-        void Handle(KeyCode keyCode);
+        void Handle();
     }
 }

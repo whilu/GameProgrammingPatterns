@@ -4,10 +4,15 @@ using UnityEngine;
 
 namespace StatePattern
 {
-	public class Player
+	public class Player : MonoBehaviour
 	{
 		private State _state;
-		
+
+		public State State
+		{
+			set => _state = value;
+		}
+
 		public void Walk()
 		{
 			Debug.Log("Walk...!");
@@ -27,16 +32,26 @@ namespace StatePattern
 		{
 			Debug.Log("Slide...!");
 		}
-		
-		public void SwitchState(KeyCode keyCode)
+
+		public void Idle()
 		{
-			_state.Handle(keyCode);
+			Debug.Log("Idle...!");	
+		}
+		
+		public void SwitchState()
+		{
+			_state.Handle();
 		}
 
-		public void SwitchState(State state)
+		private void Start()
 		{
-			_state = state;
-			_state.Handle(0);
+			// init state
+			State = new IdleState(this);
+		}
+
+		private void Update()
+		{
+			SwitchState();
 		}
 	}
 

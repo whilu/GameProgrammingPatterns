@@ -12,20 +12,29 @@ namespace StatePattern
 			_player = player;
 		}
 
-		public void Handle(KeyCode keyCode)
+		public void Handle()
 		{
+			if (!Input.GetKeyDown(KeyCode.RightShift))
+			{
+				return;
+			}
+
+			
 			_player.Slide();
-			Timer timer = new Timer(2000);
+			
+			Timer timer = new Timer(5000);
 			timer.AutoReset = false;
 			timer.Enabled = true;
-			timer.Elapsed += new ElapsedEventHandler(SlideDone);
+			timer.Elapsed += new ElapsedEventHandler(SlideFinished);
 			timer.Start();
+			
+			// Do nothing for input
 		}
-
-		private void SlideDone(object obj, ElapsedEventArgs args)
+		
+		private void SlideFinished(object obj, ElapsedEventArgs args)
 		{
 			Debug.Log("Slide Done! Switch to Run state...");
-			_player.SwitchState(0);
+			_player.State = new IdleState(_player);
 		}
 	}
 }
