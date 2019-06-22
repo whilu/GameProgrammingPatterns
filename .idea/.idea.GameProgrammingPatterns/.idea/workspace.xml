@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cce882f2-6b7f-42de-99b7-fc238a8aadec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameProgrammingPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/GameController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/GameController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/JumpState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/Scripts/JumpState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/Scripts/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/RunState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/Scripts/RunState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/SlideState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/Scripts/SlideState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/State.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/Scripts/State.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/Scripts/WalkState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/Scripts/WalkState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StatePattern/SimpleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StatePattern/SimpleScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="cce882f2-6b7f-42de-99b7-fc238a8aadec" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/StatePattern/Scripts/JumpState.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
               <folding>
                 <marker date="1561133394214" expanded="true" signature="6:39" ph="..." />
                 <marker date="1561133394214" expanded="true" signature="63:792" ph="{...}" />
@@ -202,10 +190,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="31" />
-    <option name="y" value="23" />
+    <option name="x" value="-503" />
+    <option name="y" value="-1375" />
     <option name="width" value="1108" />
-    <option name="height" value="777" />
+    <option name="height" value="1409" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -321,7 +309,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22186000" />
+    <option name="totallyTimeSpent" value="22715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -333,7 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="23" width="1108" height="777" extended-state="0" />
+    <frame x="-503" y="-1375" width="1108" height="1409" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.21214868" />
@@ -592,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/StatePattern/Scripts/JumpState.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
           <folding>
             <marker date="1561133394214" expanded="true" signature="6:39" ph="..." />
             <marker date="1561133394214" expanded="true" signature="63:792" ph="{...}" />
